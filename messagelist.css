@@ -1,0 +1,14 @@
+.MessageList {
+  background-color: white;
+  flex: 1;
+  padding-bottom: 1rem;
+  overflow-y: scroll;
+}
+
+.MessageList .roomAnnouncement {
+  padding: 2rem 1rem;
+}
+
+.MessageList .roomAnnouncement h3 {
+  font-size: 1.5rem;
+}
